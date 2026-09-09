@@ -12,6 +12,8 @@ The game includes animation, collision detection, scoring, sound effects, and En
 
 https://youtube.com/shorts/D8MvKuwpF5g?feature=share
 
+For main code, see Lab9Main.c.
+
 ## Features
 
 - Jumping and crouching
